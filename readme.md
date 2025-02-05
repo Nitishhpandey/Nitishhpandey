@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm @Nitishhpandey<br>👀 I'm interested in creating new Projects<br>🌱 I'm currently learning CSS & JavaScript <br>📫 Reach me at nitishpandey3108@gmail.com<br>💭 Fun fact photoholic
+👋 Hi, I'm NitishPandey<br>👀 I'm interested in creating new Projects<br>🌱 I'm currently learning CSS & JavaScript <br>📫 Reach me at nitishpandey3108@gmail.com<br>💭 Fun fact photoholic
 
 
 ## 🌐 Socials:
